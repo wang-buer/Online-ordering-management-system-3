@@ -1,10 +1,10 @@
-# 在线订餐管理系统
+# 在线订餐管理系统3
 
 ## 获取方式
 
-扫描下方，回复关键词  ： **订餐3**，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**订餐**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,51 +35,43 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208040952070.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208040952070.jpg)
 
 ### 4.2 用户模块
 
-![前端首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208040952885.jpg)
+![前端首页](https://www.codeshop.fun/Typora-Images/202208040952885.jpg)
 
-![前端商品详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208040952900.jpg)
+![前端商品详情](https://www.codeshop.fun/Typora-Images/202208040952900.jpg)
 
-![用户-购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208040952679.jpg)
+![用户-购物车](https://www.codeshop.fun/Typora-Images/202208040952679.jpg)
 
-![用户-填写订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208040952090.jpg)
+![用户-填写订单](https://www.codeshop.fun/Typora-Images/202208040952090.jpg)
 
-![用户-订单结果](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208040953031.jpg)
+![用户-订单结果](https://www.codeshop.fun/Typora-Images/202208040953031.jpg)
 
-![用户-所有订单信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208040952646.jpg)
+![用户-所有订单信息](https://www.codeshop.fun/Typora-Images/202208040952646.jpg)
 
 ### 4.3管理员 模块
 
-![管理员-菜品信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208040952352.jpg)
+![管理员-菜品信息管理](https://www.codeshop.fun/Typora-Images/202208040952352.jpg)
 
-![管理员-添加菜品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208040952614.jpg)
+![管理员-添加菜品](https://www.codeshop.fun/Typora-Images/202208040952614.jpg)
 
-![管理员-订单信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208040952057.jpg)
+![管理员-订单信息管理](https://www.codeshop.fun/Typora-Images/202208040952057.jpg)
 
-![管理员-会员信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208040952545.jpg)
+![管理员-会员信息管理](https://www.codeshop.fun/Typora-Images/202208040952545.jpg)
 
-![管理员-类别管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208040952300.jpg)
+![管理员-类别管理](https://www.codeshop.fun/Typora-Images/202208040952300.jpg)
 
-![管理员-评价用户](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208040953592.jpg)
+![管理员-评价用户](https://www.codeshop.fun/Typora-Images/202208040953592.jpg)
 
-![管理员-给用户添加信用评价](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208040952945.jpg)
+![管理员-给用户添加信用评价](https://www.codeshop.fun/Typora-Images/202208040952945.jpg)
 
-![管理员-留言信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208040952989.jpg)
+![管理员-留言信息管理](https://www.codeshop.fun/Typora-Images/202208040952989.jpg)
 
-![管理员-修改密码](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208040953505.jpg)
+![管理员-修改密码](https://www.codeshop.fun/Typora-Images/202208040953505.jpg)
 
 ### 4.4 文档目录
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208040953174.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**订餐3** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![文档目录](https://www.codeshop.fun/Typora-Images/202208040953174.jpg)
 
